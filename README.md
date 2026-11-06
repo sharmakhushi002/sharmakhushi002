@@ -86,23 +86,9 @@ A student community platform designed to connect students and manage campus acti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharmakhushi002&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakhushi002&layout=compact&theme=default&hide_border=true" width="48%" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=sharmakhushi002&theme=default&hide_border=true" width="70%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmakhushi002&theme=minimal&hide_border=true)](https://github.com/sharmakhushi002)
 
 </div>
 
